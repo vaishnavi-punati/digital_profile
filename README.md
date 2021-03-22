@@ -2,8 +2,8 @@ Vaishnavi Punati
 ================
 -------------------     ----------------------------
 1 Roll No                       Y19CB050
-Email Id                        vaishnavi.punati999@gmail.com
-Phone                           7671835424
+Email Id                        vaishnavi.punati595@gmail.com
+Phone                           7671835419
 -------------------     ----------------------------
 
 Education
