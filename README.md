@@ -15,6 +15,9 @@
  Format: ![Alt Text](url)
  https://github.com- automatic!
  [GitHub](http://github.com)
- 
+ Asnkanye West said:
+ > We're living the future so
+ > the present is our past.
+ > 
  
   
