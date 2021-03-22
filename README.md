@@ -24,11 +24,7 @@ Technical Experience
 --------------------
 
 Programming Languages
-:  **C,++,Pyhton,R,Data structures
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+:  **C,++,Pyhton,R,Data structures,DBMS,OS**
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
