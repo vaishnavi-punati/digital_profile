@@ -31,8 +31,7 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
+     * English (native speaker
      * This is what a nested list looks like.
 
 * Random tidbit
