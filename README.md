@@ -13,6 +13,8 @@
    * Item 3b
 ![GitHub Logo](/images/logo.png)
  Format: ![Alt Text](url)
+ https://github.com- automatic!
+ [GitHub](http://github.com)
  
  
   
